@@ -8,3 +8,7 @@ Read the "AIRPLANE DETECTION AND RECOGNITION IN OPTICAL IMAGES.pdf" file file fo
 I also implimented Faster RCNN and Yolo for building detection of Satellite Images  To understaand the work read "Building Detection Faster RCNN.pdf" and "Building Detection Yolo.pdf"
 
 
+Yolo v3 Building Detection 
+see the "Yolo_Building.ipynb" file for python code and for whole folder visit https://drive.google.com/drive/folders/1tm9IJnwgujeaD-iKiHz5qVg1uwoxVZpO?usp=sharing
+
+
