@@ -10,5 +10,8 @@ I also implimented Faster RCNN and Yolo for building detection of Satellite Imag
 
 Yolo v3 Building Detection 
 see the "Yolo_Building.ipynb" file for python code and for whole folder visit https://drive.google.com/drive/folders/1tm9IJnwgujeaD-iKiHz5qVg1uwoxVZpO?usp=sharing
+See "Faster_RCNN_Building.ipynb" file for building detection using faster rcnn network
+
+See the Ship Detection file "Faster-RCNN-Ship-Detection.ipynb" file
 
 
